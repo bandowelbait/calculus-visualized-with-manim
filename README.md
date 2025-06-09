@@ -34,7 +34,7 @@ Or, if you've moved the scene to a Python file (recommended for large-scale rend
 manim -pql your_file.py InfinitesimalChange
 -p → Preview after rendering
 -ql → Quick render (for speed); use -qm or -qh for medium/high quality
-------------------------------------------------------------------------
+
 🖼️ How to Render & Save a Thumbnail
 
 To render and save a static thumbnail image:
